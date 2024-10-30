@@ -6,3 +6,4 @@ requests
 flask-socketio
 flask-login
 ipython
+werkzeug>=3.0.6 # not directly required, pinned by Snyk to avoid a vulnerability
