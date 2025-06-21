@@ -6,3 +6,4 @@ requests
 flask-socketio
 flask-login
 ipython
+urllib3>=2.5.0 # not directly required, pinned by Snyk to avoid a vulnerability
